@@ -44,7 +44,7 @@ Each notebook is self-contained, with detailed documentation, code explanations,
 
 ### 4. YouTube Walkthrough
 For a detailed explanation of the implementation and results, watch the walkthrough video:  
-**[Watch on YouTube](your-youtube-link-here)**
+**[Watch on YouTube](https://youtu.be/XHGnMD0dpAA)**
 
 ---
 
